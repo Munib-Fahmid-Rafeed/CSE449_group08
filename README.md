@@ -1,5 +1,5 @@
 # CSE449_group08
-Fine tuning Bert Using HPC infrastructure
+Fine-Tuning BERT for NLP Tasks on High-Performance Computing (HPC) Infrastructure Using multiple GPUs on a single node
 
 Code link (Google colab):
 https://colab.research.google.com/drive/1_Ye2hhuuaN_RHlcqzYAuVwwwrtMQr8ct 
