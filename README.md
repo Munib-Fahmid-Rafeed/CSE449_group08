@@ -13,6 +13,9 @@ Team number:
 8
 
 Team member:
+
+24341128 - Munib Fahmid Rafeed
+
 20201109 - Upoma Deb Suchi
 
 21101010 - Kamran Hassan Shomrat
@@ -21,4 +24,3 @@ Team member:
 
 21101223 - Moinuddin Zubair
 
-24341128 - Munib Fahmid Rafeed
