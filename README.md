@@ -1,4 +1,4 @@
-# CSE449_group08_Final_Project
+
 Fine-Tuning BERT for NLP Tasks on High-Performance Computing (HPC) Infrastructure Using multiple GPUs on a single node
 
 Code link (Google colab):
